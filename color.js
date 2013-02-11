@@ -1,5 +1,5 @@
 /*
- *  Color class by Stasel v0.5
+ *  Color class by Stasel v0.51
  *	2013-02-11
  *	This class makes easy to use CSS colors from JavaScript
  *
@@ -31,16 +31,16 @@ var Color = function(red,green,blue,alpha) {
 	// List of X11 known color names and their hex values
 	// Source: http://en.wikipedia.org/wiki/X11_color_names
 	Color.knownColors = { 
-						"AliceBlue"     	:       "#F0F8FF",
-						"AntiqueWhite"  	:       "#FAEBD7",
-						"Aqua"  			:       "#00FFFF",
-						"Aquamarine"    	:       "#7FFFD4",
-						"Azure" 			:       "#F0FFFF",
-						"Beige" 			:       "#F5F5DC",
-						"Bisque"        	:       "#FFE4C4",
-						"Black" 			:       "#000000",
-						"BlanchedAlmond"    :       "#FFEBCD",
-						"Blue"  			:       "#0000FF",
+						"AliceBlue"			:       "#F0F8FF",
+						"AntiqueWhite"		:       "#FAEBD7",
+						"Aqua"				:       "#00FFFF",
+						"Aquamarine"		:       "#7FFFD4",
+						"Azure"				:       "#F0FFFF",
+						"Beige"				:       "#F5F5DC",
+						"Bisque"			:       "#FFE4C4",
+						"Black"				:       "#000000",
+						"BlanchedAlmond"	:       "#FFEBCD",
+						"Blue"				:       "#0000FF",
 						"BlueViolet"    	:       "#8A2BE2",
 						"Brown" 			:       "#A52A2A",
 						"Burlywood"     	:       "#DEB887",
