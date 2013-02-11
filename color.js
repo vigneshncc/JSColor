@@ -1,5 +1,5 @@
 /*
- *  Color class by Stasel v0.51
+ *  Color class by Stasel v0.52
  *	2013-02-11
  *	This class makes easy to use CSS colors from JavaScript
  *
